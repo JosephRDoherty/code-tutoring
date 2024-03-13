@@ -2,4 +2,4 @@
 
 
 
-* -- Edward (Joseph) Doherty*
+ -- Edward (Joseph) Doherty
