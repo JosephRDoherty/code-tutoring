@@ -1,5 +1,5 @@
-# This repo is used to save things used for code tutoring
+# This repo is used to save things used for tutoring programming students
 
 
 
-### - Edward (Joseph) Doherty
+* -- Edward (Joseph) Doherty*
